@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "1c6e55a129ca7faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4396daf2b3cc93c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c671b3b36227e6b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networks/networks.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "networks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7f75ba222630f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "26c08c032b6ffbab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1c4fac5e737d571",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f8f254e6c0d5f22d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f6c7a745324ff718",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e4ec35908bb7682",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ccbf0074befbc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758338a2d3d886e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Networks/networks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "networks 的反向链接列表"
+            }
+          },
+          {
+            "id": "51a619e20ffbcec4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Networks/networks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "networks 的出链列表"
+            }
+          },
+          {
+            "id": "5a2be3b1acb041f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bd7eb84b55b000b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Networks/networks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "networks 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c671b3b36227e6b3",
+  "lastOpenFiles": [
+    "Networks/slides/slides-1.pdf",
+    "Networks/networks.md",
+    "Networks/slides/slides-2/slides-2_9.jpg",
+    "Networks/slides/slides-2/slides-2_8.jpg",
+    "Networks/slides/slides-2/slides-2_7.jpg",
+    "Networks/slides/slides-2/slides-2_6.jpg",
+    "Networks/slides/slides-2/slides-2_5.jpg",
+    "Networks/slides/slides-2/slides-2_4.jpg",
+    "Networks/slides/slides-2/slides-2_24.jpg",
+    "Networks/slides/slides-2/slides-2_3.jpg",
+    "Networks/slides/slides-2/slides-2_23.jpg",
+    "Networks/slides/slides-2/slides-2_22.jpg",
+    "Networks/slides/slides-2",
+    "Networks/slides/slides-17",
+    "Networks/slides/slides-9.pdf",
+    "Networks/slides/slides-8.pdf",
+    "Networks/slides/slides-7.pdf",
+    "Networks/slides/slides-6.pdf",
+    "Networks/slides/slides-5.pdf",
+    "Networks/slides/slides-4.pdf",
+    "Networks/slides/slides-3.pdf",
+    "Networks/slides/slides-20.pdf",
+    "欢迎.md"
+  ]
+}
