@@ -1,5 +1,3 @@
-# Networks
-
 **Three** main topics
 
 - Network programming
