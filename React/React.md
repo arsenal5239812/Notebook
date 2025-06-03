@@ -44,7 +44,7 @@ npm -v
 v22.16.0
 11.4.1
 ```
-## 创建第一个项目
+# 创建第一个项目
 打开终端，进入想要存储项目的目录，使用Creat React App创建项目
 ```
 npx creat-react-app my-app
