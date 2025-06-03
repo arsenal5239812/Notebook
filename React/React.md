@@ -72,5 +72,5 @@ my-app/
 ├── .gitignore              # Git 忽略文件
 ├── package.json            # 配置信息和依赖列表
 ├── package-lock.json       # 锁定文件，记录了确切的依赖版本，确保在不同环境中安装的依赖一致
-└── .gitignore              # Git 忽略文件
+└── README.md               # 项目描述文件
 ```
