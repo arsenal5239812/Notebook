@@ -6,6 +6,15 @@
 ## creatRoot
 - ```creatRoot```是React 18+的新API：支持并发特性（Concurrent Mode）；性能更好、架构更先进；是React官方推荐的写法。
 - ```ReactDom.render```是React17及以下的老写法，从React18开始，```ReactDOM.render```已经不推荐使用，也不支持新的并发特性。
+## reportWebVitals
+- ```reportWebVitals```是Creat React App (CRA) 从 v4开始在脚手架中自动生成的。
+- ```reportWebVitals```文件里封装了一个函数，帮助把网页的性能指标（Web Vitals）上报到日志或Google Analytics等第三方分析工具。
+- **Web Vitals** 是一些衡量网页性能和用户体验的指标，包括：
+  - FCP (First Contentful Paint)
+  - LCP (Largest Contentful Paint)
+  - CLS (Cumulative Layout Shift)
+  - TTFB (Time To First Bite)
+  - ……
 # Raect开发环境配置
 - 安装Node.ls
 - 配置VScode插件

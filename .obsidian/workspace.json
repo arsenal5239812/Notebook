@@ -14,14 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "React/React.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "React"
             }
+          },
+          {
+            "id": "d4bb3b62d0db20c6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "人工智能课设/A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c87299c45bda8103",
+  "active": "d4bb3b62d0db20c6",
   "lastOpenFiles": [
     "React/React.md",
     "React",
