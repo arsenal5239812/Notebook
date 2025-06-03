@@ -54,10 +54,15 @@ npx creat-react-app my-app
 my-app/
 ├── node_modules/           # 项目依赖库
 ├── public/                 # 存放静态文件
-│   ├── index.html          # 应用的 HTML 模板文件
 │   ├── favicon.ico         # 浏览器图标
+│   ├── index.html          # 应用的 HTML 模板文件
+│   ├── logo192.png         # React logo 图标（192×192）
+│   ├── logo512.png         # React logo 图标（512×512）
+│   ├── mainfest.json       # Web 应用清单文件
+│   ├── robots.txt          # 用于告诉搜索引擎哪些页面可以被抓取
 ├── src/                    # 存放源代码
 │   ├── App.css             # 样式文件
+│   ├── App.js              # 主要的 React 组件
 │   ├── App.js              # 主要的 React 组件
 │   ├── index.css           # 全局样式
 │   ├── index.js            # React 入口文件
