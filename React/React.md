@@ -16,7 +16,18 @@
   - TTFB (Time To First Bite)
   - ……
 # Raect开发环境配置
-## 安装Node.js
+## VS code 插件配置
+[react开发者必备vscode插件【2024最新】](https://juejin.cn/post/7337519776794918921)
+- ESLint
+- Prettier - Code formatter
+- Simple React Snippets
+- React Developer Tools
+- GitLens
+- Auto Rename Tag
+- Path Intellisense
+- Color Highlight
+- Code Spell Checker
+## 安装Node.js (及npm)
 Node.js安装包及源码下载地址为：[https://nodejs.org/en/download](https://nodejs.org/en/download)
 安装完成后，打开终端
 ```
@@ -32,4 +43,24 @@ npm -v
 ```
 v22.16.0
 11.4.1
+```
+## 创建第一个项目
+打开终端，进入想要存储项目的目录，使用Creat React App创建项目
+```
+npx creat-react-app my-app
+```
+执行成功后，生成项目```my-app/```，项目的目录结构如下：
+```
+my-app/
+├── node_modules/           # 项目依赖库
+├── public/                 # 存放静态文件
+│   ├── index.html          # 应用的 HTML 模板文件
+│   ├── favicon.ico         # 浏览器图标
+├── src/                    # 存放源代码
+│   ├── App.css             # 样式文件
+│   ├── App.js              # 主要的 React 组件
+│   ├── index.css           # 全局样式
+│   ├── index.js            # React 入口文件
+├── package.json            # 配置信息和依赖列表
+└── .gitignore              # Git 忽略文件
 ```
