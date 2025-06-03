@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "React/React.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -32,9 +32,34 @@
               "icon": "lucide-file-text",
               "title": "A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction"
             }
+          },
+          {
+            "id": "bf15a64794b53f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能课设/基于机器学习的高效析氢催化剂筛选.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基于机器学习的高效析氢催化剂筛选"
+            }
+          },
+          {
+            "id": "16da8d4798a0c370",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "人工智能课设/Active Learning Guided Discovery of High Entropy Oxides Featuring High H2-production.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Active Learning Guided Discovery of High Entropy Oxides Featuring High H2-production"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,14 +219,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d4bb3b62d0db20c6",
+  "active": "c87299c45bda8103",
   "lastOpenFiles": [
-    "React/React.md",
-    "React",
     "人工智能课设/Active Learning Guided Discovery of High Entropy Oxides Featuring High H2-production.pdf",
     "人工智能课设/A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction.pdf",
-    "README.md",
     "人工智能课设/基于机器学习的高效析氢催化剂筛选.md",
+    "React/React.md",
+    "React",
+    "README.md",
     "Networks/Networks.md",
     "未命名.md",
     "人工智能课设",

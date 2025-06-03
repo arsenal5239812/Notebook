@@ -16,6 +16,15 @@
   - TTFB (Time To First Bite)
   - ……
 # Raect开发环境配置
-- 安装Node.ls
-- 配置VScode插件
-- 安装
+## 安装Node.js
+Node.js安装包及源码下载地址为：[https://nodejs.org/en/download](https://nodejs.org/en/download)
+安装完成后，打开终端
+```
+win + R
+cmd
+```
+通过以下命令检查Node.js和npm是否已经安装：
+```
+node -v 
+npm -v
+```
