@@ -61,14 +61,14 @@ my-app/
 │   ├── mainfest.json       # Web 应用清单文件
 │   ├── robots.txt          # 用于告诉搜索引擎哪些页面可以被抓取
 ├── src/                    # 存放源代码
-│   ├── App.css             # 样式文件
+│   ├── App.css             # App组件样式文件
 │   ├── App.js              # 主要的 React 组件
-│   ├── App.test.js         # 主要的 React 组件
+│   ├── App.test.js         # App组件的测试文件
 │   ├── index.css           # 全局样式
 │   ├── index.js            # React 入口文件
-│   ├── logo.svg            # 主要的 React 组件
-│   ├── reportWebVitals     # 主要的 React 组件
-│   ├── setupTests.js       # 主要的 React 组件
+│   ├── logo.svg            # React logo的SVG文件
+│   ├── reportWebVitals     # 用于性能检测的文件
+│   ├── setupTests.js       # yong'y
 ├── package.json            # 配置信息和依赖列表
 └── .gitignore              # Git 忽略文件
 ```
