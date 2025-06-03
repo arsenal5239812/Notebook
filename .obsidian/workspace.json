@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c87299c45bda8103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/React.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "React"
-            }
-          },
-          {
-            "id": "d4bb3b62d0db20c6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "人工智能课设/A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction"
-            }
-          },
-          {
             "id": "bf15a64794b53f0d",
             "type": "leaf",
             "state": {
@@ -46,21 +20,8 @@
               "icon": "lucide-file",
               "title": "基于机器学习的高效析氢催化剂筛选"
             }
-          },
-          {
-            "id": "16da8d4798a0c370",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "人工智能课设/Active Learning Guided Discovery of High Entropy Oxides Featuring High H2-production.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Active Learning Guided Discovery of High Entropy Oxides Featuring High H2-production"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,10 +183,10 @@
   },
   "active": "bf15a64794b53f0d",
   "lastOpenFiles": [
-    "React/React.md",
     "人工智能课设/Active Learning Guided Discovery of High Entropy Oxides Featuring High H2-production.pdf",
-    "人工智能课设/A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction.pdf",
     "人工智能课设/基于机器学习的高效析氢催化剂筛选.md",
+    "人工智能课设/A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction.pdf",
+    "React/React.md",
     "React",
     "README.md",
     "Networks/Networks.md",
