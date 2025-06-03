@@ -68,7 +68,9 @@ my-app/
 │   ├── index.js            # React 入口文件
 │   ├── logo.svg            # React logo的SVG文件
 │   ├── reportWebVitals     # 用于性能检测的文件
-│   ├── setupTests.js       # yong'y
+│   ├── setupTests.js       # 用于测试环境的文件
+├── .gitignore              # Git 忽略文件
 ├── package.json            # 配置信息和依赖列表
+├── package-lock.json            # 配置信息和依赖列表
 └── .gitignore              # Git 忽略文件
 ```
