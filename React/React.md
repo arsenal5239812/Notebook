@@ -63,9 +63,12 @@ my-app/
 ├── src/                    # 存放源代码
 │   ├── App.css             # 样式文件
 │   ├── App.js              # 主要的 React 组件
-│   ├── App.js              # 主要的 React 组件
+│   ├── App.test.js         # 主要的 React 组件
 │   ├── index.css           # 全局样式
 │   ├── index.js            # React 入口文件
+│   ├── logo.svg            # 主要的 React 组件
+│   ├── reportWebVitals     # 主要的 React 组件
+│   ├── setupTests.js       # 主要的 React 组件
 ├── package.json            # 配置信息和依赖列表
 └── .gitignore              # Git 忽略文件
 ```
