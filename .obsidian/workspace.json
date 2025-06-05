@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1e48ad3f0e690ec",
+        "id": "853a10ba84c68dc3",
         "type": "tabs",
         "children": [
           {
-            "id": "bf15a64794b53f0d",
+            "id": "bc858836b0715cb0",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2e4ec35908bb7682",
@@ -179,8 +180,47 @@
       "obsidian42-brat:BRAT": false
     }
   },
+  "floating": {
+    "id": "fad2ac030540daf4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c574141bf78926ee",
+        "type": "window",
+        "children": [
+          {
+            "id": "817618e7f0a0c1a3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bf15a64794b53f0d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "人工智能课设/2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1152,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "bf15a64794b53f0d",
   "lastOpenFiles": [
+    "人工智能课设/2.pdf",
+    "人工智能课设/2-zh.pdf",
     "人工智能课设/基于机器学习的高效析氢催化剂筛选.md",
     "人工智能课设/Active Learning Guided Discovery of High Entropy Oxides Featuring High H2-production.pdf",
     "人工智能课设/A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction.pdf",
@@ -205,7 +245,6 @@
     "Networks/slides/slides-2",
     "Networks/slides/slides-17",
     "Networks/slides/slides-9.pdf",
-    "Networks/slides/slides-8.pdf",
     "欢迎.md"
   ]
 }
