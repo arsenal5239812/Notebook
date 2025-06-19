@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc858836b0715cb0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "人工智能课设/2-zh.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2-zh"
-            }
-          },
-          {
-            "id": "6b5d34ce1256ade0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "人工智能课设/2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2"
-            }
-          },
-          {
             "id": "db6fce6bb3b09fe9",
             "type": "leaf",
             "state": {
@@ -57,8 +33,7 @@
               "title": "Active Learning Guided Discovery of High Entropy Oxides Featuring High H2-production"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
