@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "利兹毕设/利兹启航分组.md",
+                "file": "中国国际大学生创新大赛/项目概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "利兹启航分组"
+              "title": "项目概述"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2e4ec35908bb7682",
@@ -184,9 +183,11 @@
   },
   "active": "30edf5d8308dc361",
   "lastOpenFiles": [
+    "利兹毕设/利兹启航分组.md",
+    "中国国际大学生创新大赛/项目概述.md",
+    "中国国际大学生创新大赛",
     "未命名.canvas",
     "2025-06-25.md",
-    "利兹毕设/利兹启航分组.md",
     "未命名.md",
     "利兹毕设",
     "人工智能课设/Active Learning Guided Discovery of High Entropy Oxides Featuring High H2-production.pdf",
@@ -211,7 +212,6 @@
     "Networks/slides/slides-2/slides-2_3.jpg",
     "Networks/slides/slides-2/slides-2_23.jpg",
     "Networks/slides/slides-2/slides-2_22.jpg",
-    "Networks/slides/slides-2",
     "欢迎.md"
   ]
 }
