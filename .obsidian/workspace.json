@@ -11,10 +11,14 @@
             "id": "396fff32e6297f97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "利兹毕设/利兹启航分组.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "利兹启航分组"
             }
           }
         ]
@@ -177,9 +181,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b1c4fac5e737d571",
+  "active": "396fff32e6297f97",
   "lastOpenFiles": [
-    "未命名",
+    "未命名.md",
+    "利兹毕设/利兹启航分组.md",
+    "利兹毕设",
     "人工智能课设/Active Learning Guided Discovery of High Entropy Oxides Featuring High H2-production.pdf",
     "人工智能课设/基于机器学习的高效析氢催化剂筛选.md",
     "人工智能课设/2.pdf",
@@ -189,7 +195,6 @@
     "React",
     "README.md",
     "Networks/Networks.md",
-    "未命名.md",
     "人工智能课设",
     "LICENSE",
     "Networks/slides/slides-1.pdf",
@@ -204,7 +209,6 @@
     "Networks/slides/slides-2/slides-2_23.jpg",
     "Networks/slides/slides-2/slides-2_22.jpg",
     "Networks/slides/slides-2",
-    "Networks/slides/slides-17",
     "欢迎.md"
   ]
 }
