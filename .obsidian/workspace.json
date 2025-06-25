@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "中国国际大学生创新大赛/项目概述.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -35,8 +35,7 @@
               "title": "利兹启航分组"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +196,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dcaef20f1f72b2bb",
+  "active": "30edf5d8308dc361",
   "lastOpenFiles": [
-    "中国国际大学生创新大赛/项目概述.md",
     "利兹毕设/利兹启航分组.md",
+    "中国国际大学生创新大赛/项目概述.md",
     "中国国际大学生创新大赛",
     "未命名.canvas",
     "2025-06-25.md",
