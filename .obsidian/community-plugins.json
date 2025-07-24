@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "file-explorer-note-count",
-  "calendar",
   "obsidian42-brat",
   "Enhanced-editing",
   "oz-clear-unused-images",
@@ -9,5 +8,12 @@
   "obsidian-image-toolkit",
   "copy-url-in-preview",
   "open-in-new-tab",
-  "copilot"
+  "copilot",
+  "table-editor-obsidian",
+  "keep-the-rhythm",
+  "templify",
+  "pexels-banner",
+  "obsidian-style-settings",
+  "calendar",
+  "tasks-calendar-wrapper"
 ]
