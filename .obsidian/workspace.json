@@ -88,12 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "大厂面经/字节跳动客户端-海外社区实习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "字节跳动客户端-海外社区实习 的大纲"
             }
           },
           {
@@ -138,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 277.5
   },
   "right": {
     "id": "2e4ec35908bb7682",
@@ -211,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,10 +231,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1c4fac5e737d571",
+  "active": "f0f8b1bc31b3351c",
   "lastOpenFiles": [
-    "专业知识/Figures/pycharm背景.png",
-    "专业知识/Figures/pycharm2.jpg",
+    "专业知识/Figures/湖雨.png",
+    "大厂面经/字节跳动客户端-海外社区实习.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "专业知识/Figures/雪山.jpg",
     "专业知识/Figures",
     "专业知识/新建文件夹",
     "专业知识",
@@ -243,7 +247,6 @@
     "KG-笔记模板-20250725135525.md",
     "康奈尔笔记模板-20250725135519.md",
     "四象限模板-20250725135513.md",
-    "大厂面经/字节跳动客户端-海外社区实习.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -251,8 +254,6 @@
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts/Translate to Chinese.md",
@@ -277,7 +278,6 @@
     "Networks/slides/slides-2/slides-2_5.jpg",
     "Networks/slides/slides-2/slides-2_4.jpg",
     "Networks/slides/slides-2/slides-2_24.jpg",
-    "Networks/slides/slides-2/slides-2_3.jpg",
-    "Networks/slides/slides-2/slides-2_23.jpg"
+    "Networks/slides/slides-2/slides-2_3.jpg"
   ]
 }
