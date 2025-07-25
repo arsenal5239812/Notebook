@@ -76,7 +76,7 @@
       {
         "id": "aa828785e4556d0d",
         "type": "tabs",
-        "dimension": 34.86725663716814,
+        "dimension": 26.548672566371682,
         "children": [
           {
             "id": "bd7eb84b55b000b9",
@@ -91,13 +91,24 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "c15348dc697735b1",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5616727053b94791",
         "type": "tabs",
-        "dimension": 34.86725663716814,
+        "dimension": 43.1858407079646,
         "children": [
           {
             "id": "f0f8b1bc31b3351c",
@@ -190,19 +201,9 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "c15348dc697735b1",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Tasks Timeline"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -225,7 +226,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c15348dc697735b1",
+  "active": "1be1c2aeab1c6b8e",
   "lastOpenFiles": [
     "字节客户端实习面试/面试问题.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
